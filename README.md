@@ -10,6 +10,9 @@ Whether you're a student, educator, engineer, or just curious about how jet engi
 
 ---
 
+## 📸 Demo
+![Terrain Demo](Demo3D-ezgif.com-video-to-gif-converter.gif) 
+
 ## 🎯 Features
 
 - 📱 **Augmented Reality Visualization**  
@@ -67,13 +70,6 @@ Whether you're a student, educator, engineer, or just curious about how jet engi
 | Toggle Controller/Head | `Tab` |
 | Reset | `R` |
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots or GIFs here showing the simulation in action)*
-
----
 
 
 
