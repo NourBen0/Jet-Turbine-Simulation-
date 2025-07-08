@@ -11,7 +11,7 @@ Whether you're a student, educator, engineer, or just curious about how jet engi
 ---
 
 ## 📸 Demo
-![Terrain Demo](DemoJetTurbine-ezgif.com-video-to-gif-converter.gif) 
+![Jet Turbine Simulation Demo](DemoJetTurbine-ezgif.com-video-to-gif-converter.gif) 
 
 ## 🎯 Features
 
