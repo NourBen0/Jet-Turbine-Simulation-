@@ -1,7 +1,6 @@
 # 🛠️ Jet Turbine Simulation - Augmented Reality Experience
 
-**Jet Turbine Simulation** is a cutting-edge Augmented Reality (AR) application that allows users to explore the inner workings of a jet turbine engine in an immersive and interactive way.
-
+**Jet Turbine Simulation**Jet Turbine Simulation is a cutting-edge augmented reality application that allows users to dive into the inner workings of a jet turbine engine. With this app, you can explore and understand the intricate components that make up this powerful machinery. Using your device, simply launch the app and witness a virtual jet turbine come to life in your surroundings. Dive deep into the engine to examine each component up close, from the blades to the combustion chamber. Jet Turbine Simulation offers a unique and educational experience, giving users a deeper understanding of the fascinating world of jet turbine technology.
 ## 🚀 Overview
 
 This project brings complex jet turbine technology into your hands using AR. By simply launching the app, users can place a fully 3D-rendered turbine in their environment and inspect each component — from the fan blades to the combustion chamber — up close.
